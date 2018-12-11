@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 1px solid red;
+}
+.normalPanel .panelContent {
+  width: 188px;
+  height: 188px;
+  text-align: center;
+}
+.normalPanel .wrp_code {
+  text-align: center;
+  position: relative;
+  width: 188px;
+  height: 188px;
+  margin: 0;
+}
+.impowerBox .title,
+.normalPanel .info {
+  display: block;
+  text-align: center;
+}
+.impowerBox .qrcode {
+  margin-top: 0;
+  border: 0;
+  width: 188px;
+  height: 188px;
+  text-align: center;
+}
+#MAXIM {
+  content: "veg20170418191511";
+}

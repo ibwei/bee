@@ -1,10 +1,11 @@
 # bee
 
-> A Vue.js project
+> 一个蜜蜂生长发育形态自动识别与异常检测系统的 PC 终端
+> demo:[bee.ibwei.com](http://bee.ibwei.com)
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 npm install
 
